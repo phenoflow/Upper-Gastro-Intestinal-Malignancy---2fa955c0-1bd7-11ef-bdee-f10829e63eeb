@@ -1,0 +1,48 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/upper-gastro-intestinal-malignancy-unspecified---primary.py
+inputModule3:
+  class: File
+  path: python/upper-gastro-intestinal-malignancy-lesion---primary.py
+inputModule4:
+  class: File
+  path: python/upper-gastro-intestinal-malignancy-oesophagu---primary.py
+inputModule5:
+  class: File
+  path: python/upper-gastro-intestinal-malignancy-stomach---primary.py
+inputModule6:
+  class: File
+  path: python/upper-gastro-intestinal-malignancy-carcinoma---primary.py
+inputModule7:
+  class: File
+  path: python/upper-gastro-intestinal-malignancy-[m]linitisplastica---primary.py
+inputModule8:
+  class: File
+  path: python/upper-gastro-intestinal-malignancy-pylorus---primary.py
+inputModule9:
+  class: File
+  path: python/upper-gastro-intestinal-malignancy-junction---primary.py
+inputModule10:
+  class: File
+  path: python/pyloric-upper-gastro-intestinal-malignancy---primary.py
+inputModule11:
+  class: File
+  path: python/upper-gastro-intestinal-malignancy-cardia---primary.py
+inputModule12:
+  class: File
+  path: python/upper-gastro-intestinal-malignancy-third---primary.py
+inputModule13:
+  class: File
+  path: python/upper-gastro-intestinal-malignancy-mgastrinoma---primary.py
+inputModule14:
+  class: File
+  path: python/upper-gastro-intestinal-malignancy-neoplasm---primary.py
+inputModule15:
+  class: File
+  path: python/upper-gastro-intestinal-malignancy---primary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
